@@ -1,0 +1,24 @@
+Date27 june 2025Team IDLTVIP2025TMID50053Project nameCosmetics insightsMaximum marks4 marks
+Step-1: Team Gathering, Collaboration and Select the Problem Statement
+
+ 
+To begin the data analytics project on supermarket sales, I started with an ideation and brainstorming session to explore various ways to gain insights from the dataset. The goal was to identify patterns in customer behavior, product performance, and sales trends using Tableau. I generated multiple ideas such as visualizing sales by product line and branch, comparing .
+These ideas helped me choose the most meaningful visualizations that could support better business decision-making. Brainstorming allowed me to think creatively, organize my approach, and prioritize key insights to focus on during the analysis phase.
+
+
+
+
+Step-2: Brainstorm, Idea Listing and Grouping
+	
+
+
+
+
+Step-3: Idea Prioritization
+
+
+
+                                                                 
+
+
+
